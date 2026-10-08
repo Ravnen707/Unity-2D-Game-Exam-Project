@@ -1,6 +1,41 @@
-# EksamenSommerUnity2DSpil
+# Unity 2D Game – Exam Project
 
-## kildeliste for programmet
+This is a 2D game developed in Unity and C# as part of a third-semester elective during my AP Graduate in Computer Science at Zealand in 2022.
+
+The project was created for an exam and gave me practical experience with Unity, C# scripting and implementing different gameplay mechanics.
+
+## Game Features
+
+The project includes:
+
+- **Player movement:** Horizontal movement, jumping and ground detection.
+- **Shooting:** Mouse-controlled aiming, projectiles, firing intervals and enemy damage.
+- **Enemies:** Health management and destruction when health reaches zero.
+- **Player health:** Damage handling and a visual health bar.
+- **Teleportation:** Teleporting between locations using the E key.
+- **Respawning:** Returning the player to designated positions when entering certain areas or falling.
+- **Camera:** A camera that follows the player's movement.
+
+## Technologies
+
+- Unity 2020.3.32f1
+- C#
+- Unity 2D Physics
+- Unity UI
+
+## Project Status
+
+This is an educational project from 2022 and is no longer actively maintained.
+
+## Resources and Credits
+
+The project was developed using tutorials, external resources and assets from the Unity Asset Store.
+
+The original source list is preserved below to credit the resources used during development.
+
+
+
+## Tutorials used for Project
 
 ### Movement: 
 https://www.youtube.com/watch?v=L6Q6VHueWnU
