@@ -1,6 +1,7 @@
+
 # Unity 2D Game – Exam Project
 
-This is a 2D game developed in Unity and C# as part of a third-semester elective during my AP Graduate in Computer Science at Zealand in 2022.
+This is a 2D game developed in Unity and C# as part of a fourth-semester elective during my AP Graduate in Computer Science at Zealand in 2022.
 
 The project was created for an exam and gave me practical experience with Unity, C# scripting and implementing different gameplay mechanics.
 
@@ -32,7 +33,6 @@ This is an educational project from 2022 and is no longer actively maintained.
 The project was developed using tutorials, external resources and assets from the Unity Asset Store.
 
 The original source list is preserved below to credit the resources used during development.
-
 
 
 ## Tutorials used for Project
