@@ -11,11 +11,10 @@ The project includes:
 
 - **Player movement:** Horizontal movement, jumping and ground detection.
 - **Shooting:** Mouse-controlled aiming, projectiles, firing intervals and enemy damage.
-- **Enemies:** Health management and destruction when health reaches zero.
-- **Player health:** Damage handling and a visual health bar.
 - **Teleportation:** Teleporting between locations using the E key.
 - **Respawning:** Returning the player to designated positions when entering certain areas or falling.
 - **Camera:** A camera that follows the player's movement.
+- **Entities:** Entities to move on specific location.
 
 ## Technologies
 
